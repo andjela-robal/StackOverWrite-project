@@ -42,3 +42,13 @@ Korisniku su pružene sledeće mogućnosti:
     </connectionStrings>
    ```
 5. Pokrenuti (Build) projekat u okviru Visual Studia
+
+## Izgled aplikacije
+
+<p align="center">
+  <img src="slike/stackoverwrite1.png" alt="Početna stranica"/>
+</p>
+
+<p align="center">
+  <img src="slike/stackoverwrite2.png" alt="Stranica za pitanje"/>
+</p>
