@@ -78,7 +78,7 @@ ALTER TABLE pitanjeodgovor
 ADD CONSTRAINT fkpitanjeodgovorpitanje FOREIGN KEY (id_odgovora)
 REFERENCES odgovor(id_odgovora)
 ON DELETE NO ACTION
-ON UPDATE CASCADE;
+ON UPDATE NO ACTION;
 
 
 INSERT INTO pitanjeodgovor(id_odgovora,id_pitanja)
